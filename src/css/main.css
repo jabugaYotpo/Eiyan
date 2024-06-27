@@ -22,10 +22,11 @@ body {
 
 .template-header {
   align-items: end;
-  background: #214380;
+  background: linear-gradient(180deg, #01145a, #518ed2);
   flex-flow: column wrap;
   height: auto;
   padding: 20px 0;
+  display: flex;
 }
 
 .logo {
