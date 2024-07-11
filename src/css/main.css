@@ -22,7 +22,7 @@ body {
 
 .template-header {
   align-items: end;
-  background: transparent;
+  background: #fff;
   flex-flow: column wrap;
   height: auto;
   padding: 20px 0;
